@@ -1,0 +1,8 @@
+.recipe{
+  display: flex;
+  margin-bottom: 2em;
+}
+
+.recipe>div{
+  margin-left: 3em;
+}

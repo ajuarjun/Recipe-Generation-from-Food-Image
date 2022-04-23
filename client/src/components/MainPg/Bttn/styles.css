@@ -1,0 +1,16 @@
+.bttn{
+  background-color: #FF5656;
+  border-radius: 12px;
+  width: 24em;
+  text-align: center;
+  padding: 0.7em;
+  color: white;
+  font-family: 'Monserrat', sans-serif;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 1.2em;
+}
+
+.bttn:hover{
+  background-color: #dd3434;
+}

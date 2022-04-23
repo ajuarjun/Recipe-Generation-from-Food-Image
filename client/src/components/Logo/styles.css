@@ -1,0 +1,16 @@
+.logo1{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  padding: 0.1em 1.3em 0.1em 0.1em;
+  border-radius: 50%;
+  background-color: white;
+  border: 4px solid #FF7373;
+  width: 1em;
+  font-size: 2em;
+}
+
+.logo2{
+  background-color: #FF5252;
+  border-radius: 50%;
+  padding: 0.5em 1.45em 0.5em 0.75em;
+}

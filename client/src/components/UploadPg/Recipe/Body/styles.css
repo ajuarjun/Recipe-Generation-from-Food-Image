@@ -1,0 +1,9 @@
+.api-res{
+  font-family: 'Monserrat', sans-serif;
+  width: 51em;
+  border: 1px solid black;
+  border-radius: 13px;
+  box-shadow:  14px 14px 28px #ebebeb,
+               -14px -14px 28px #ffffff;
+  padding: 1em 2em;
+}

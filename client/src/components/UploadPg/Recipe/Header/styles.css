@@ -1,0 +1,9 @@
+.header{
+  padding: 5px 1em;
+  margin-left: 1.5em;
+  border: 1px solid black;
+  border-bottom: 0px solid black;
+  width: 4em;
+  border-radius: 5px 5px 0 0 ;
+  font-family: 'Monserrat', sans-serif;
+}

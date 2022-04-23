@@ -1,0 +1,24 @@
+.exp{
+  margin: -5em 3em 3em 3em;
+}
+
+.exp>div{
+  display: flex;
+}
+
+.card{
+  background-color: #FFE6E6;
+  border-radius: 12px;
+  width: 100em;
+  padding: 2em 5em 2em 7em;
+}
+
+.card>p{
+  font-family: 'Monserrat', sans-serif;
+  font-size: 1.2em;
+}
+
+.avatar{
+  margin-right: -8.5em;
+  z-index: 1;
+}

@@ -1,0 +1,26 @@
+.upload{
+  border: 2px dashed #3298DA;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 1.5em;
+  justify-content: center;
+  height: 24em;
+  width: 25em;
+}
+
+.nofile{
+  width: 15em;
+}
+
+.upload>div{
+  color: #3298DA;
+  font-family: 'Monserrat', sans-serif;
+  font-size: 24px;
+}
+
+.hasfile{
+  max-width: 25em;
+  max-height: 24em;
+}

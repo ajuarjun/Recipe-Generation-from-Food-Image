@@ -1,0 +1,18 @@
+.how>div{
+  background-color: #FFE6E6;
+  padding: 1.5em 3em;
+  margin-bottom: -10px;
+}
+
+.how>div>ol{
+  font-family: 'Monserrat', sans-serif;
+  font-size: 1.2em;
+}
+
+.how>hr{
+  border-top: 1em solid #FFCFCF;
+}
+
+.burger-pic{
+  margin: -19em 0em 0em 52em;
+}

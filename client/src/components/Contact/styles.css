@@ -1,0 +1,12 @@
+.contact{
+  align-items: center;
+  background-color: #FFCFCF;
+  padding: 4px 10px;
+  text-align: center;
+}
+
+.icon{
+  margin: 5px 100px 10px 100px;
+  color: black;
+  text-decoration: none;
+}

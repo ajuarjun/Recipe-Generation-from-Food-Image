@@ -1,0 +1,9 @@
+.about{
+  margin: 3em;
+}
+
+.about>p{
+  font-family: 'Monserrat', sans-serif;
+  font-size: 1.2em;
+  text-align: justify;
+}

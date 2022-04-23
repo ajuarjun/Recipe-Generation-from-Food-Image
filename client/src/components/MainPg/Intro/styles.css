@@ -1,0 +1,37 @@
+.pic{
+  height: 29em;
+  background-size: cover;
+  margin-bottom: -3em;
+  /* background-image: url("/img/cover.PNG"); */
+}
+
+.intro-logo{
+  display: flex;
+  justify-content: center;
+}
+
+.intro-beg{
+  text-align: center;
+  font-family: 'Monserrat', sans-serif;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  /* font-size: 1.1em; */
+}
+
+.intro-beg>p{
+  font-size: 1.4em;
+}
+
+.intro-btn{
+  display: flex;
+  justify-content: center;
+  margin-top: 1em;
+}
+
+.hr1{
+  border-top: 1em solid #FFDDDD;
+}
+
+.hr2{
+  border-top: 1em solid #FFCFCF;
+}
